@@ -1,2 +1,2 @@
 # http-server
-A simply HTTP1.1 server written in Go
+A simple HTTP1.1 server written in Go (work in progress)
